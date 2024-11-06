@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is jialin Liu. 
+This is Jialin Liu. I like running, and I'm interested in EEG signal processing.
 
 
 
