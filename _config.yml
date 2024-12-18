@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jialin Liu"
   pronouns         : # example: "she/her"  
-  bio              : "running | signal processing"
+  bio              : "running | history | signal processing"
   location         : "Chengdu"
   #employer         : " "
   uri              : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "jialin9615"
+  github           : "jialinliu0817"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  twitter          : "jialin9615" # Username for X / Twitter
+  twitter          : "jialinliu0817" # Username for X / Twitter
   vine             : # Username
   wikipedia        : # Username
   xing             : # Username
