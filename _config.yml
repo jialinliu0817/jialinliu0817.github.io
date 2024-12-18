@@ -12,9 +12,9 @@ title                    : "Jialin Liu"
 title_separator          : "-"
 name                     : &name "Jialin Liu"
 description              : &description "personal description"
-url                      : https://jialin9615.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jialinliu0817.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jialin9615/jialin9615.github.io"
+repository               : "jialinliu0817/jialinliu0817.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
