@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Jialin Liu"
   pronouns         : # example: "she/her"  
-  bio              : "running | signal processing"
-  location         : "Chengdu"
+  bio              : "signal processing"
+  location         : "LangZhong"
   #employer         : " "
   uri              : # URL
   #email            : "none@example.org" 
@@ -48,8 +48,8 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
-  #bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # Social media     
+bluesky            :"jialinliu0817.bsky.app" 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
