@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media     
-  bluesky            : "jialinliu0817.bsky.social" 
+  bluesky            : "" 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,16 +58,16 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "jialinliu0817" # Username
+  linkedin         : "" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  twitter          : "jialinliu0817" # Username for X / Twitter
+  twitter          : "" # Username for X / Twitter
   vine             : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "jialinliu0817"# Username
+  youtube          : ""# Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
