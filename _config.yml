@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Jialin Liu"
   pronouns         : # example: "she/her"  
-  bio              : "signal processing"
-  location         : "China"
+  bio              : "USTC Master"
+  location         : "Langzhong, Sichuan, China"
   #employer         : " "
   uri              : # URL
   #email            : "none@example.org" 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media     
-  bluesky          :  
+  bluesky          : # Username 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,12 +58,12 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :  # Username
+  linkedin         : jialinliu0817# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : jialinliu0817 # Username for X / Twitter
   vine             : # Username
   wikipedia        : # Username
   xing             : # Username
